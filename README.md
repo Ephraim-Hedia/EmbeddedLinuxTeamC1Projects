@@ -1,4 +1,4 @@
-# Embedded_Linux_Diploma_Team_C1
+# Embedded_Linux_Team_C1_Projects
 ### This repo contains Tasks for Team C1 at The Embedded Linux Diploma
 #### instructor : Moatasem Elsayed 
 ### Team Names
